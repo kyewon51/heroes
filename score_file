@@ -1,6 +1,8 @@
+강예원 202303141 컴퓨터공학부
 #include <stdlib.h>
 #include <string.h>
 int main() {
+
 	FILE*fp;
 	char fname[100];
 	int number, count = 0;
