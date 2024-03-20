@@ -1,1 +1,3 @@
 # heroes
+
+import sys
