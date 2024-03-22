@@ -10,7 +10,9 @@ int c = 41
 str mvp = 'JHLee'
 
 str Hoo = 'baseball'
+
 str sing = 'cruel summer'
+str singer = 'maroon5'
 
 int year = 2024
 =======
