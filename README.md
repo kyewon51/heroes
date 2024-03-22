@@ -10,6 +10,8 @@ int c = 41
 str mvp = 'JHLee'
 
 str Hoo = 'baseball'
+str sing = 'cruel summer'
+
 int year = 2024
 =======
 int sum = 0
