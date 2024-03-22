@@ -3,8 +3,8 @@
 import sys
 
 int main(
-int a = 4
-int b = 5
+int a = 3
+int b = 51
 
 int c = 41
 int year = 2024
