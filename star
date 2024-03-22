@@ -3,6 +3,7 @@
 int main(
 
 int num=5;
+int a;
 for(int i=0;i<num;i++){
     for(int j=num-1;j>i;j--){
 	printf(" ");
