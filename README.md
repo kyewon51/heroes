@@ -6,9 +6,8 @@ int main(
 int a = 4
 int b = 5
 
-char puzzle = 'cgv'
 int c = 41
-
+int year = 2024
 =======
 int sum = 0
 
