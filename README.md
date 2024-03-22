@@ -8,6 +8,8 @@ int b = 51
 
 int c = 41
 str Hoo = 'baseball'
+str sing = 'cruel summer'
+
 int year = 2024
 =======
 int sum = 0
