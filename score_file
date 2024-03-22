@@ -35,7 +35,7 @@ int main() {
 		total += score;
 		count++;
 	}
-	printf("평균 = %f\n", total / count);
+	printf("average = %f\n", total / count);
 	fclose(fp);
 	return 0;
 }
