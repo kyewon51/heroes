@@ -13,6 +13,7 @@ str king = 'HSKim'
 str Hoo = 'baseball'
 
 str sing = 'cruel summer'
+str singer = 'maroon5'
 
 int year = 2024
 =======
