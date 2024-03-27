@@ -2,6 +2,7 @@
 
 int main(
 
+int min = 51;
 int num=5;
 int a;
 for(int i=0;i<num;i++){
@@ -16,9 +17,7 @@ for(int i=0;i<num;i++){
 }
 	
 for(int i=1;i<num;i++){
-   for(int j=0;j<i;j++){
-	 printf(" ");
-   }
+
 	
     for(int j=2*num-1;j>2*i;j--){
          printf("*");
