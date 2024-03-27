@@ -2,6 +2,7 @@
 
 int main(
 
+int min = 51;
 int num=5;
 for(int i=0;i<num;i++){
     for(int j=num-1;j>i;j--){
