@@ -1,8 +1,8 @@
 #include<stdio.h>
-
+void starprint(int, int);
 int main(
 
-int num=5;
+int num=4;
 int a;
 for(int i=0;i<num;i++){
     for(int j=num-1;j>i;j--){
