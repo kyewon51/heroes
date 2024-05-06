@@ -1,0 +1,29 @@
+강예원 202303141 한국외대 컴퓨터공학부
+#include <stdlib.h>
+#include <string.h>
+int main() {
+	int a;
+	printf("정수 입력: ");
+	scanf("%d", &a);
+	
+	for (int i=1;i<a;i++){
+   for (int p=a-i;p>=0;p--){
+	     printf(" ");
+		}
+		for (int j=1;j<=i;j++){ 
+					printf("* ");
+			}
+	printf("\n");	
+	}
+	for (int i=1;i<=a;i++){
+		for (int p=1;p<=i;p++){
+			printf(" ");
+		}
+		for (int j=a-i;j>=0;j--){
+			printf("* ");
+		}
+		printf("\n");
+	}
+
+	return 0;
+}
