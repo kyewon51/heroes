@@ -2,7 +2,7 @@
 void starprint(int, int);
 int main(
 
-int num=4;
+int num=14;
 int a;
 for(int i=0;i<num;i++){
     for(int j=num-1;j>i;j--){
@@ -24,4 +24,6 @@ for(int i=1;i<num;i++){
          printf("*");
     }
     printf("\n");
-})
+}
+return 0
+)
