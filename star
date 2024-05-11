@@ -1,9 +1,8 @@
-**한국외대 컴퓨터공학부 23학번 강예원**
 #include<stdio.h>
 void starprint(int, int);
 int main(
 
-int num=14;
+int num=11;
 int a;
 for(int i=0;i<num;i++){
     for(int j=num-1;j>i;j--){
