@@ -1,3 +1,4 @@
+**한국외대 컴퓨터공학부 23학번 강예원**
 #include<stdio.h>
 void starprint(int, int);
 int main(
