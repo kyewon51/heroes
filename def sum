@@ -6,3 +6,21 @@ num2 = float(input("두 번째 숫자를 입력하세요: "))
 
 result = add_numbers(num1, num2)
 print("두 숫자를 더한 결과는:", result)
+
+def replace_string(input_string, old_substring, new_substring):
+    """
+    input_string: 원본 문자열
+    old_substring: 대체할 문자열
+    new_substring: 새로운 문자열
+    """
+
+    return input_string.replace(old_substring, new_substring)
+
+
+example_string = "Hello, world! Hello, Python!"
+old_sub = "Hello"
+new_sub = "Hi"
+
+result = replace_string(example_string, old_sub, new_sub)
+print("원본 문자열:", example_string)
+print("치환된 문자열:", result)
