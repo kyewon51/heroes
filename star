@@ -2,7 +2,8 @@
 void starprint(int, int);
 int main(
 
-int num=11;
+int num=3;
+str h = 'H_S_KIM';
 int a;
 for(int i=0;i<num;i++){
     for(int j=num-1;j>i;j--){
