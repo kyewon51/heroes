@@ -1,18 +1,13 @@
 def add_numbers(a, b):
     return a + b
 
-num1 = float(input("첫 번째 숫자를 입력하세요: "))
-num2 = float(input("두 번째 숫자를 입력하세요: "))
+num1 = float(input("첫 번째 숫자: "))
+num2 = float(input("두 번째 숫자: "))
 
 result = add_numbers(num1, num2)
-print("두 숫자를 더한 결과는:", result)
+print("더한 결과:", result)
 
 def replace_string(input_string, old_substring, new_substring):
-    """
-    input_string: 원본 문자열
-    old_substring: 대체할 문자열
-    new_substring: 새로운 문자열
-    """
 
     return input_string.replace(old_substring, new_substring)
 
