@@ -1,6 +1,6 @@
 #include<stdio.h>
-void starprint(int, int);
-int main(
+
+int main(){
 
 int num=3;
 str h = 'H_S_KIM';
@@ -27,4 +27,4 @@ for(int i=1;i<num;i++){
     printf("\n");
 }
 return 0
-)
+}
