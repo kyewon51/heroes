@@ -6,8 +6,3 @@ num2 = float(input("두 번째 숫자: "))
 
 result = add_numbers(num1, num2)
 print("더한 결과:", result)
-
-int main(){
-
-
-}
